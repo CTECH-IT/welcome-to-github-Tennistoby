@@ -1,7 +1,7 @@
 # Welcome-to-GitHub
 First repository for new users
 
-Please enter your name: "Zoey"
+Please enter your name: "Zoey Chen"
 
 Please enter your favorite color: "periwinkle"
 
